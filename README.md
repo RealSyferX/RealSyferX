@@ -31,6 +31,7 @@
 [<img src='https://raw.githubusercontent.com/github/explore/86c1bd6b4584404882313005cbd1c213cacb16d8/topics/visual-studio/visual-studio.png' width='40' height='40' />](https://visualstudio.microsoft.com)
 [<img src='https://raw.githubusercontent.com/x64dbg/x64dbg/development/src/bug_black.png' width='40' height='40' />](https://x64dbg.com)
 [<img src='https://raw.githubusercontent.com/cheat-engine/cheat-engine/master/Cheat%20Engine/images/celogo.png' width='40' height='40' />](https://github.com/cheat-engine/cheat-engine)
+[<img src='https://upload.wikimedia.org/wikipedia/commons/c/c9/PhpStorm_Icon.svg' width='40' height='40' />](https://www.jetbrains.com/phpstorm/)
 <!-- [<img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg' width='40' height='40' />](https://www.docker.com/) -->
 
 
