@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="300" src="https://raw.githubusercontent.com/RealSyferX/RealSyferX/main/e18518c6d24257c6fb02e3c95a862d85.gif"/>
+  <img height="300" src="https://github.com/RealSyferX/RealSyferX/blob/main/anime-fighting-498-x-280-gif-9t7lf1eja9bg9adg.gif?raw=true"/>
   <h1>Welcome to My GitHub Profile!</h1>
   <p>Exploring the realms of x86/x64 Assembly Language and the art of securing and breaking security.</p>
   <p>I go by many names, known as Superlevel2021/SyferX or maybe RealSyferX too..</p>
@@ -44,6 +44,7 @@
 <h2>🛠️ Currently Working On</h2>
 
 - [SyxMem](https://github.com/SyxMem/Syx-Memory)
+- [AnimeClub-Steam](https://github.com/RealSyferX/AnimeClub-Steam)
 
 <h2>🌱 Currently Learning</h2>
 
