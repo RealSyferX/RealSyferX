@@ -5,26 +5,30 @@
   <p>I go by many names, known as Superlevel2021/SyferX or maybe RealSyferX too..</p>
 </div>
 
-<h2>🏆 GitHub Trophies</h2>
+<h2 align="center">🏆 GitHub Trophies</h2>
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=RealSyferX&theme=dracula&margin-w=15&amargin-h=15&column=7" alt="RealSyferX GitHub Trophies"/>
 </div>
 
-<h2>📊 GitHub Stats</h2>
+## 📊 Github Stats <img align="right" src="https://img.shields.io/github/stars/RealSyferX?label=Stars&style=social" alt="GitHub Badge"> <a href="https://github.com/RealSyferX?tab=followers"><img align="right" src="https://img.shields.io/github/followers/RealSyferX?label=Followers&style=social" alt="GitHub Badge"></a> <a href="https://github.com/RealSyferX">  <img align="right" src="https://komarev.com/ghpvc/?username=RealSyferX"></a>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RealSyferX&show_icons=true&title_color=FFF&bg_color=000&icon_color=FFF&border_radius=10&hide_border=true&text_color=00CF91" alt="RealSyferX GitHub Stats"/>
-</div>
+<p>
+  <img align="right"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=RealSyferX&langs_count=8&theme=react" />
+</p>
 
-<h2>🔥 Top Languages</h2>
+<a href="https://github.com/RealSyferX"><img alt="RealSyferX's Github Stats"
+    src="https://github-readme-stats.vercel.app/api?username=RealSyferX&show_icons=true&count_private=true&theme=react&bg_color=151515" /></a>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RealSyferX&layout=compact&show_icons=true&title_color=FFF&bg_color=000&icon_color=FFF&border_radius=10&hide_border=true&text_color=00CF91" alt="RealSyferX Top Languages"/>
-</div>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=RealSyferX&theme=black-ice"
+    alt="RealSyferX" /></p>
 
-<h2>💻 Technologies and Tools</h2>
+<br />
 
+
+<br>
+<h2 align="center">💻 Technologies and Tools</h2>
 <div align="center">
 
   
@@ -41,15 +45,18 @@
 
 </div>
 
-<h2>🛠️ Currently Working On</h2>
+<h2 align="center">🛠️ Currently Working On</h2>
+<div align="center">
+  <a href="https://github.com/SyxMem/Syx-Memory" class="block mt-2 text-lg font-medium text-blue-500">SyxMem-Lib</a>
+  <p class="text-md text-gray-500">A C++ class that provides functions for memory operations and pattern searching in a Windows environment.</p>
+  
+  <a href="https://github.com/RealSyferX/AnimeClub-Steam" class="block mt-4 text-lg font-medium text-blue-500">AnimeClub-Steam</a>
+  <p class="text-md text-gray-500">A tool for unlocking Steam games/DLCs without paying a single penny.</p>
+</div>
 
-- [SyxMem](https://github.com/SyxMem/Syx-Memory)
-- [AnimeClub-Steam](https://github.com/RealSyferX/AnimeClub-Steam)
+<h2 align="center">🌱 Currently Learning</h2>
 
-<h2>🌱 Currently Learning</h2>
-
-- PHP, JavaScript, CSS.
 
 <div align="center">
-  <!-- Add any other social or contact links here -->
+- PHP, JavaScript, CSS, Laravel Framework.
 </div>
