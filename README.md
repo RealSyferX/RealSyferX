@@ -29,7 +29,7 @@
 <h2 align="center">🏆 GitHub Trophies</h2>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=RealSyferX&theme=radical&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=7" alt="Trophies"/>
+  <img src="https://github-trophies.vercel.app/?username=RealSyferX&theme=darkhub&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=7" alt="Trophies"/>
 </div>
 
 ---
@@ -37,14 +37,14 @@
 <h2 align="center">📊 GitHub Stats</h2>
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=RealSyferX&show_icons=true&count_private=true&theme=radical&bg_color=0d1117&hide_border=true&border_radius=12&icon_color=39ff14&title_color=39ff14" alt="GitHub Stats"/>
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RealSyferX&langs_count=8&layout=compact&theme=radical&bg_color=0d1117&hide_border=true&border_radius=12&title_color=39ff14" alt="Top Languages"/>
+  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=RealSyferX&show_icons=true&count_private=true&theme=radical&bg_color=0d1117&hide_border=true&border_radius=12&icon_color=39ff14&title_color=39ff14&cache_seconds=86400" alt="GitHub Stats"/>
+  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=RealSyferX&langs_count=8&layout=compact&theme=radical&bg_color=0d1117&hide_border=true&border_radius=12&title_color=39ff14&cache_seconds=86400" alt="Top Languages"/>
 </div>
 
 <br/>
 
 <div align="center">
-  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=RealSyferX&theme=radical&background=0d1117&hide_border=true&border_radius=12&ring=39ff14&fire=39ff14&currStreakLabel=39ff14" alt="GitHub Streak"/>
+  <img width="70%" src="https://streak-stats.demolab.com/?user=RealSyferX&theme=radical&background=0d1117&hide_border=true&border_radius=12&ring=39ff14&fire=39ff14&currStreakLabel=39ff14" alt="GitHub Streak"/>
 </div>
 
 <br/>
@@ -99,10 +99,10 @@
 
 <div align="center">
   <a href="https://github.com/SyxMem/Syx-Memory">
-    <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=SyxMem&repo=Syx-Memory&theme=radical&bg_color=0d1117&hide_border=true&border_radius=12&icon_color=39ff14&title_color=39ff14" alt="SyxMem-Lib"/>
+    <img width="45%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=SyxMem&repo=Syx-Memory&theme=radical&bg_color=0d1117&hide_border=true&border_radius=12&icon_color=39ff14&title_color=39ff14&cache_seconds=86400" alt="SyxMem-Lib"/>
   </a>
   <a href="https://github.com/RealSyferX/AnimeClub-Steam">
-    <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=RealSyferX&repo=AnimeClub-Steam&theme=radical&bg_color=0d1117&hide_border=true&border_radius=12&icon_color=39ff14&title_color=39ff14" alt="AnimeClub-Steam"/>
+    <img width="45%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=RealSyferX&repo=AnimeClub-Steam&theme=radical&bg_color=0d1117&hide_border=true&border_radius=12&icon_color=39ff14&title_color=39ff14&cache_seconds=86400" alt="AnimeClub-Steam"/>
   </a>
 </div>
 
