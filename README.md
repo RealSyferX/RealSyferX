@@ -5,7 +5,7 @@
   
   # 🌑 SyferX
 
-  **`Digital Craftsman | Low-Level Architect | Security Enthusiast`**
+  **`Digital Craftsman | Low-Level Architect | Security Enthusiast | Specialized Systems Developer | Software Reverse Engineer`**
 
   *Exploring the realms of x86/x64 Assembly and the art of securing — and breaking — security.*
 
